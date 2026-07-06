@@ -1,0 +1,9 @@
+{
+  "latestVersionCode": 3,
+  "latestVersionName": "1.0.2",
+  "minimumSupportedVersionCode": 3,
+  "required": true,
+  "apkUrl": "ybs-way.apk",
+  "title": "Application Update",
+  "message": "A newer YBS Way version is available. Update now to get the latest fixes, search improvements, and route data."
+}
