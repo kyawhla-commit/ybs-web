@@ -5,5 +5,5 @@
   "required": true,
   "apkUrl": "ybs-way.apk",
   "title": "Application Update",
-  "message": "YBS Way 1.0.5 adds reliable audible stop and destination reminders, sound testing and settings, plus encrypted local card and notification history."
+  "message": "YBS Way 1.0.5 adds System, Light, and Dark appearance modes, reliable audible stop and destination reminders, plus encrypted local card and notification history."
 }
