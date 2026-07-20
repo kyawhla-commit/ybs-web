@@ -1,9 +1,9 @@
 {
-  "latestVersionCode": 4,
-  "latestVersionName": "1.0.3",
+  "latestVersionCode": 5,
+  "latestVersionName": "1.0.4",
   "minimumSupportedVersionCode": 3,
   "required": true,
   "apkUrl": "ybs-way.apk",
   "title": "Application Update",
-  "message": "YBS Way 1.0.3 is available with smoother map search, faster first results, and improved fast typing."
+  "message": "YBS Way 1.0.4 adds YPS card balance scanning, recent transactions, private local history, spending summaries, date filters, low-balance guidance, and quick access to nearby top-up locations."
 }
